@@ -1,0 +1,1 @@
+# Epoch-Kullanarak-Ekran-S-resi-Hesaplama
