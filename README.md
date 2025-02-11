@@ -1,1 +1,1 @@
-# Epoch-Kullanarak-Ekran-S-resi-Hesaplama
+# Epoch-Kullanarak-Ekran-Suresi-Hesaplama
